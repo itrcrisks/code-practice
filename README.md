@@ -5,3 +5,5 @@ Practice to understand some Python coding basics
 Hello, this is Silvia
 
 More code practice needed
+
+Doing some more practice!
